@@ -1,0 +1,4 @@
+{
+  "success": false,
+  "message": "Missing required fields | Unauthorized access - Please log in | Database connection failed | Method not allowed - Only POST requests accepted | Internal server error"
+}

@@ -4,6 +4,6 @@
   "patientId": 90593,
   "pdate": "2024-11-17",
   "measureId": 21343,
-  "columnType": "result",
+  "columnType": "'result'|'remark'",
   "newValue": "7.5 | Negative"
 }

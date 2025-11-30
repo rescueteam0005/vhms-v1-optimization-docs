@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "deleted": 3,
+  "message": "Successfully deleted 2 result(s) and removed 0 orphaned test order(s)",
+  "testOrdersDeleted": 0,
+  "warnings": ["Item #1: No matching result found to delete"],
+  "errors": ["Item #0: Database execute error: Cannot delete protected record"]
+}

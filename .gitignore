@@ -62,3 +62,7 @@ coverage/
 
 # Serverless directories
 .serverless/
+
+# Test directories
+.test/
+.test-results/

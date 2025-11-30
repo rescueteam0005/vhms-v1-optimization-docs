@@ -33,6 +33,7 @@
     "test": "code ArchitectureOverview/project-structure.md"
   },
   "devDependencies": {
+    "@prettier/plugin-php": "^0.24.0",
     "prettier": "3.7.3"
   }
 }

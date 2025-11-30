@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "resultId": 501,
+      "testId": 2123,
+      "patientId": 14553,
+      "pdate": "2023-11-15",
+      "measureId": 43455
+    },
+    {
+      "resultId": 435,
+      "testId": 5840,
+      "patientId": 10023,
+      "pdate": "2025-06-22",
+      "measureId": 38590
+    },
+    {
+      "resultId": 113,
+      "testId": 9093,
+      "patientId": 29087,
+      "pdate": "2024-16-22",
+      "measureId": 90043
+    }
+  ]
+}
