@@ -1,0 +1,64 @@
+node_modules
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+
+# Runtime data
+*.dat
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Dependency directories
+# node_modules/ (already present)
+
+# Build artifacts
+build/
+dist/
+out/
+es/
+lib/
+tmp/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+.history
+.atom/
+.sublime-workspace
+.metadata
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+.flaskenv
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# VS Code Live Share
+.vsls/
+
+# Serverless directories
+.serverless/
