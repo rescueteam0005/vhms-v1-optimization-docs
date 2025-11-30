@@ -1,0 +1,4 @@
+- PHP 7.4 or higher
+- MySQL 5.7 or higher
+- Apache/Nginx web server
+- Composer (for dependency management)

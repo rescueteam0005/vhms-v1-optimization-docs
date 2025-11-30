@@ -1,0 +1,1 @@
+mysql -u username -p vhms_db < database/schema.sql

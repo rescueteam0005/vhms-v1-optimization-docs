@@ -1,0 +1,38 @@
+{
+  "name": "vhms-v1-optimization-docs",
+  "version": "1.0.0",
+  "description": "A help guide to my entire app documentation and report for users, developers and the board",
+  "keywords": [
+    "architecture",
+    "documentation",
+    "installation",
+    "setup"
+  ],
+  "homepage": "https://github.com/rescueteam0005/vhms-v1-optimization-docs#readme",
+  "bugs": {
+    "url": "https://github.com/rescueteam0005/vhms-v1-optimization-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rescueteam0005/vhms-v1-optimization-docs.git"
+  },
+  "license": "ISC",
+  "author": "Cyber-Lord",
+  "type": "commonjs",
+  "fileTypes": [
+    "json",
+    "markdown",
+    "word document",
+    "sql",
+    "png"
+  ],
+  "main": "ArchitectureOverview/project-structure.md",
+  "scripts": {
+    "format": "prettier --write .",
+    "check-format": "prettier --check .",
+    "test": "code ArchitectureOverview/project-structure.md"
+  },
+  "devDependencies": {
+    "prettier": "3.7.3"
+  }
+}

@@ -1,0 +1,9 @@
+CREATE TABLE patients (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    patient_id VARCHAR(50) UNIQUE,
+    first_name VARCHAR(100),
+    last_name VARCHAR(100),
+    date_of_birth DATE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);

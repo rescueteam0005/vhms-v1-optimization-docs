@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "Result updated successfully",
+  "data": {
+    "newValue": "7.5",
+    "columnType": "result",
+    "timestamp": "2024-11-17 14:30:00"
+  }
+}
